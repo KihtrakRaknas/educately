@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "././fonts/SimpleLineIcons.ttf"
   },
   {
-    "revision": "9b3220ce121e02338df7",
-    "url": "./static/js/app.70b3eacb.chunk.js"
+    "revision": "6f7f6782ff17adfbf542",
+    "url": "./static/js/app.cbb089ef.chunk.js"
   },
   {
     "revision": "3fcf8173ae24680194db",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "./serve.json"
   },
   {
-    "revision": "4f5e111d348cffc5e003",
-    "url": "./static/js/2.79599849.chunk.js"
+    "revision": "1035ddbf2e503349075b",
+    "url": "./static/js/2.42055326.chunk.js"
   },
   {
     "revision": "b2e0fc821c6886fb3940f85a3320003e",
@@ -52,11 +52,11 @@ self.__precacheManifest = [
     "url": "././fonts/MaterialIcons.ttf"
   },
   {
-    "revision": "191ebb6501756b13d29fca7fa0e0747a",
+    "revision": "fe6d4acb408ab73f6b7f7f7cf71d9fc8",
     "url": "./manifest.json"
   },
   {
-    "revision": "cb013629f435631a98b13be732ecf54c",
+    "revision": "1ce4b5aeb3efb72076cdb990fa16b273",
     "url": "./index.html"
   },
   {
