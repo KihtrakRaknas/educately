@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "././fonts/SimpleLineIcons.ttf"
   },
   {
-    "revision": "8d60fb85e797b46e83a5",
-    "url": "./static/js/app.c5c2186d.chunk.js"
+    "revision": "638320473c0be051065e",
+    "url": "./static/js/app.37059ed7.chunk.js"
   },
   {
     "revision": "3fcf8173ae24680194db",
@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "./serve.json"
   },
   {
-    "revision": "126bbe57dce0a07af34c",
-    "url": "./static/js/2.f9ea89ff.chunk.js"
+    "revision": "efee8c936b8f2ac6f743",
+    "url": "./static/js/2.b6f196e3.chunk.js"
   },
   {
-    "revision": "b2e0fc821c6886fb3940f85a3320003e",
-    "url": "././fonts/Ionicons.ttf"
+    "revision": "48c7ed4e7da9792af288a60d7242d615",
+    "url": "./expo-service-worker.js"
   },
   {
     "revision": "a37b0c01c0baf1888ca812cc0508f6e2",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "./manifest.json"
   },
   {
-    "revision": "3d84c6f68bc101e0d86a15e6b6496716",
+    "revision": "b833c471f83ee00fe5eed046ce6101ac",
     "url": "./index.html"
   },
   {
@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "./favicon-16.png"
   },
   {
-    "revision": "48c7ed4e7da9792af288a60d7242d615",
-    "url": "./expo-service-worker.js"
-  },
-  {
     "revision": "3c851d60ad5ef3f2fe43ebd263490d78",
     "url": "././fonts/MaterialCommunityIcons.ttf"
+  },
+  {
+    "revision": "b2e0fc821c6886fb3940f85a3320003e",
+    "url": "././fonts/Ionicons.ttf"
   },
   {
     "revision": "e20945d7c929279ef7a6f1db184a4470",
