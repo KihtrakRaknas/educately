@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "././fonts/SimpleLineIcons.ttf"
   },
   {
-    "revision": "98b1edef97e56b0e7e6c",
-    "url": "./static/js/app.657532ec.chunk.js"
+    "revision": "9b3220ce121e02338df7",
+    "url": "./static/js/app.70b3eacb.chunk.js"
   },
   {
     "revision": "3fcf8173ae24680194db",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "./manifest.json"
   },
   {
-    "revision": "c6a1308778873aa1d3000b9996f16925",
+    "revision": "cb013629f435631a98b13be732ecf54c",
     "url": "./index.html"
   },
   {
