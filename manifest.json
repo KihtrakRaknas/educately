@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "educately",
-  "short_name": "educately",
+  "name": "Educately",
+  "short_name": "Educately",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "icons": [
